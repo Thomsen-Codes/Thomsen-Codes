@@ -1,4 +1,4 @@
-# Hi there, I'm [Xavier Thomsen] 👋
+# Hi there, I'm Xavier Thomsen 👋
 
 Welcome to my GitHub profile! I'm a passionate biology and chemistry student with a strong curiosity for the natural world. In addition to my scientific interests, I've embarked on an exciting journey into the world of front-end development. 
 
