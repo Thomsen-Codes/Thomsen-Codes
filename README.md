@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate biology and chemistry student wit
 - 🧪 Studying biology and chemistry
 - 👩‍🔬 Fascinated by the intricacies of molecular interactions
 - 🌱 Constantly seeking opportunities to learn and grow
-- 🖌️ Exploring the creative world of front-end web development
+- 🖌️ Exploring the creative world of web development
 
 ## Front-End Development Journey
 
@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a passionate biology and chemistry student wit
 
 🌐 Feel free to connect with me on social media or explore the projects I've been working on. I'm always open to collaboration and learning from others in the tech and science communities.
 
-- 📫 [Email Address](thomsen2016@outlook.com)
-- 🐦 [Twitter](https://twitter.com/xavier_thomsen)
+- 📫 [Email Address](thomsen.codes@gmail.com)
+- 𝕏 [X](https://twitter.com/ThomsenXav74561)
 
 Looking forward to sharing my journey with you and exploring the fascinating intersections between biology, chemistry, and technology!
 
